@@ -1,3 +1,3 @@
 ### かき小屋（ごや）- Oyster hut
 
-![kaki](kaki.png)
+![kaki](2024_image/kaki.png)
