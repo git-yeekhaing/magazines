@@ -30,3 +30,4 @@
 |22| 西  | にし |west |
 |23| 北西 | ほくせい |northwest |
 
+[index](index.md)
