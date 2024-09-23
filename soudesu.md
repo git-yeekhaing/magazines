@@ -40,3 +40,5 @@
 | **そうな + 名詞 (N)**  | 暖かそうなセーター (It looks like a warm sweater) |
 | **そうに + 動詞 (V)**  | 悲しそうに泣いている (Crying as if sad)         |
 | **～ない**            | 雨が降らなさそうです (It doesn’t look like it will rain) |
+
+[index](index.md)
