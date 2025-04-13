@@ -81,5 +81,6 @@ They’re often called “feel-good” hormones because they can improve your mo
 - `fatigue`: extreme tiredness or exhaustion, usually from physical or mental effort.
 - `intransic`: naturally part of something; built-in or essential by nature.
 - `impact`: the effect or influence something has.  
-            a strong force or collision.
+            a strong force or collision.  
 
+[index](index.md)
