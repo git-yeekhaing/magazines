@@ -38,3 +38,7 @@
 - ウナギ  
   
  作り方 →　https://youtu.be/pSBiojMydsQ?si=BpW7ddqJEMC2qh5N
+ 
+#### チン族が主に住んでいる地域へ招く歌
+
+[ချင်းတောင်တန်းမှကြိုဆိုပါ၏ ](https://youtu.be/eX-sHp8lX-Q?si=Aqj94Srhd5MeXHsO)
