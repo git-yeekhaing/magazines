@@ -41,4 +41,6 @@
  
 #### チン族が主に住んでいる地域へ招く歌
 
-[ချင်းတောင်တန်းမှကြိုဆိုပါ၏ ](https://youtu.be/eX-sHp8lX-Q?si=Aqj94Srhd5MeXHsO)
+[ချင်းတောင်တန်းမှကြိုဆိုပါ၏ ](https://youtu.be/eX-sHp8lX-Q?si=Aqj94Srhd5MeXHsO)  
+
+[index](index.md)
